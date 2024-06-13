@@ -70,7 +70,7 @@
         "fancy-log": "latest",
         "fs-extra": "^9.1.0",
         "glob": "latest",
-        "gulp": "^4.0.2",
+        "gulp": "^5.0.0",
         "gulp-concat": "latest",
         "gulp-insert": "latest",
         "gulp-newer": "latest",
